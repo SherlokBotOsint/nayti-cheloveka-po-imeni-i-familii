@@ -63,5 +63,6 @@
 - [Как найти человека в интернете](https://github.com/SherlokBotOsint/nayti-cheloveka-v-internete)
 - [Все статьи об OSINT и поиске информации](https://github.com/SherlokBotOsint/osint-poisk-informatsii)
 
-Для комплексной проверки используйте [официальный сайт Sherlock](https://sherlokk.bot/).
+Для комплексной проверки используйте [Запустить бота](https://sherlokk.bot/).
 <!-- related:end -->
+
